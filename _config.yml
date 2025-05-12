@@ -11,3 +11,18 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  nav_pages:
+    - about.md
+  show_excerpts: true  
+  social_links:
+    - title: Jekyll repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/jekyll"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/jekyllrb"
+  hide_site_feed_link: true
