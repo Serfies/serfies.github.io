@@ -1,6 +1,27 @@
-title: Serfies' Blog
-description: My blog on IT, Coding, AI, and Architecture topics.
+title: Serfies' Tech Insights
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My blog on IT, Coding, AI, and Architecture topics.
 
+url: "https://serfies.github.io"
+
+# Author settings (used by Minima for the footer)
+author:
+  name: Serfies
+  twitter: your_twitter_handle # Optional: Your Twitter handle (without @)
+  github: Serfies # Your GitHub username
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  nav_pages:
+    - about.md
+  show_excerpts: true  
+  social_links:
+    twitter: your_twitter_handle
+    github: Serfies
+  hide_site_feed_link: true
+  
 # Theme settings
 # _config.yml
 theme: minima
@@ -12,17 +33,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-  nav_pages:
-    - about.md
-  show_excerpts: true  
-  social_links:
-    - title: Jekyll repository at GitHub
-      icon: github
-      url: "https://github.com/jekyll/jekyll"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
-  hide_site_feed_link: true
+
