@@ -1,0 +1,12 @@
+title: Serfies' Blog
+description: My blog on IT, Coding, AI, and Architecture topics.
+
+# Theme settings
+remote_theme: "pages-themes/architect@v0.2.0" # Example modern theme
+
+# Optional: enable syntax highlighting
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
