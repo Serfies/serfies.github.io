@@ -3,7 +3,7 @@ description: My blog on IT, Coding, AI, and Architecture topics.
 
 # Theme settings
 # _config.yml
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
 
 # Optional: enable syntax highlighting
 plugins:
