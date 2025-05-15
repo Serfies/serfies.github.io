@@ -11,20 +11,20 @@ author:
   twitter: your_twitter_handle # Optional: Your Twitter handle (without @)
   github: Serfies # Your GitHub username
 
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-  nav_pages:
-    - about.md
-  show_excerpts: true  
-  social_links:
-    twitter: your_twitter_handle
-    github: Serfies
-  hide_site_feed_link: true
+#minima:
+#  skin: dark
+#  date_format: "%b %-d, %Y"
+#  nav_pages:
+#    - about.md
+#  show_excerpts: true  
+#  social_links:
+#    twitter: your_twitter_handle
+#    github: Serfies
+#  hide_site_feed_link: true
   
 # Theme settings
 # _config.yml
-theme: minima
+#theme: minima
 
 # Optional: enable syntax highlighting
 plugins:
