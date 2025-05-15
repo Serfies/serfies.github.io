@@ -26,11 +26,14 @@ author:
 # _config.yml
 #theme: minima
 
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
 # Optional: enable syntax highlighting
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 
