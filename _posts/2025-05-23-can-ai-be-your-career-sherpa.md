@@ -9,6 +9,7 @@ comments: true
 mathjax: true
 author: Andre Serfontein
 ---
+
 Let me tell you something I have been thinking about quite a lot lately. It is about how we learn and grow in our work, and how things are changing.
 
 In the old days, and even now, the best way to expand your experience is often by learning from other, more experienced people. You find someone senior in your field, perhaps a mentor, and you learn from their wisdom. This works really well in a large organization. There are often many senior colleagues in the same or similar roles. You can ask them questions, see how they solve problems, and absorb their years of knowledge. It is a natural way to grow your skills.
