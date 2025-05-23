@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Algorithmic Mentor: Can AI Be Your Career Sherpa?
+title: The Algorithmic Mentor, can AI Be Your Career Sherpa?
 subtitle: The moral dilemma of using AI as your career mentor.
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
