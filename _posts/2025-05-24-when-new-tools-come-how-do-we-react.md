@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When New Tools Come, How Do We React?
+title: When New Tools Come How Do We React?
 subtitle: Answering the question if AI is a risk to human jobs.
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
