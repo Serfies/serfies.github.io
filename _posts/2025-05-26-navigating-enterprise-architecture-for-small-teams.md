@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our IT Story, Navigating Enterprise Architecture for Small Teams
+title: Our IT Story - Navigating Enterprise Architecture for Small Teams
 subtitle: Finding the Right Framework, Without the Overwhelm.
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
