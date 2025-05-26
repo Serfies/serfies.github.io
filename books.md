@@ -4,7 +4,7 @@ title: Recommended Books
 subtitle: My list of noteworthy books.
 ---
 
-I have read many books during my career but few leave a lasting impression. Below my list of books that I that I think you will find value in as well.
+I have read many books during my career but few leave a lasting impression. Below my list of books that I think you will find value in as well.
 
 ### Enterprise Architecture
 
