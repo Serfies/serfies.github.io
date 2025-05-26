@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Our IT Story - Navigating Enterprise Architecture for Small Teams
-subtitle: Finding the Right Framework, Without the Overwhelm.
+title: Our IT Story, Navigating Enterprise Architecture for Small Teams
+subtitle: Finding the right framework, without the overwhelm.
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
-tags: [LLM, AI]
+tags: [EA]
 comments: true
 mathjax: true
 author: Andre Serfontein
