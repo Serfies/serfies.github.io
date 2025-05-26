@@ -23,8 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     Test:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+      - Beautiful Jekyll: "https://beautifuljekyll.com"
+      - Learn markdown: "https://www.markdowntutorial.com/"
+  Hope: "aboutme"
 
 ################
 # --- Logo --- #
