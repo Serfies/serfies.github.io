@@ -22,9 +22,7 @@ author: Andre Serfontein
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Hope: "aboutme"
+    - Recommended Books: "books"
 
 ################
 # --- Logo --- #
