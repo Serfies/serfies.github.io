@@ -10,6 +10,8 @@ mathjax: true
 author: Andre Serfontein
 ---
 
+![Our IT Story, Navigating Enterprise Architecture for Small Teams](/assets/img/2025-05-26-navigating-enterprise-architecture-for-small-teams.png)
+
 Imagine our IT department. We are not a huge company with an IT department of hundreds of people. Instead, we are a smaller, focused team of just over 30 people. We work hard, often wearing many different hats. We build things, fix things and always try to make our technology work better for the whole business. During our previous IT restructure, a new role was created for me that included enterprise architecture as a responsibility. I acknowledged that a good plan, an *Enterprise Architecture* (EA) framework, can help us align our technology with our business goals.
 
 This is where a big question came up. I wanted to do EA well, but we had limited time and resources. So, the question I had to answer is, which EA framework should we pick? We've all heard about **TOGAF**, The Open Group Architecture Framework. Most every architecture PD contains the TOGAF certification as a requirement. Companies seem to want TOGAF, but is that what is implemented in their business in the end? But then, we also hear about the ideas from **Dr. Slava Kotusev**. His work talks about being practical and keeping things simple. He emphasises a pragmatic, artifact-focused and tailored approach. This creates a real dilemma for us. Do we choose the big, well-known, detailed framework, or the one that promises a more direct, less complicated path? This choice felt critical in my case, because I did not want to follow what other companies have implemented without understanding the impact of doing so in a small IT team.
