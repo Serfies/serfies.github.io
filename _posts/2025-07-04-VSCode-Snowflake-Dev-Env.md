@@ -4,7 +4,7 @@ title: How To Configure a Local Snowflake Development Environment
 subtitle: A guide to configuring a Snowflake development environment with GitHub and Visual Studio Code
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
-tags: [Snowflake]
+tags: [Snowflake, GitHub, SQLFluff]
 comments: true
 mathjax: true
 author: Andre Serfontein
