@@ -14,11 +14,11 @@ author: Andre Serfontein
 
 It was late 2022 when OpenAI made ChatGPT generally available. I remember it clearly. Suddenly, this powerful *artificial intelligence* was just there, ready for use. Many people were talking about how amazing it was. Initially I did not understand the fuss, but I was quick to jump in and start exploring for myself. My first thought was how I could use AI at my workplace. I wanted to see how it could make me *more effective*, *more efficient* and really *improve the quality of my work*. Back then, I just thought about simple things, about giving it a question or a command.
 
-### The Problem Arises
+### My AI Introduction
 
 While that initial *prompting* was useful, I soon found its limits. We all came face to face with the frequent and out of this world hallucinations but my challenge with early models was more about how I can get longer and more persistently accurate results. It felt like a bit of a *trial-and-error* process. I would type a question, get a reply, and then try another, hoping for better results. There was no real system to it. This became a *challenge* when I needed AI to help me with *long-form content* or serious *research*. The quality was not always consistent and I struggled to get the detailed, structured output I truly wanted. It was clear that just giving a one-off input was not enough.
 
-### The Evolving Journey
+### My Evolving Journey
 
 As AI technology began to mature, the way I interacted with it also changed significantly. My understanding grew.
 
@@ -28,7 +28,7 @@ Feeling that I have mastered prompting large language models for text generation
 
 More recently, I found myself exploring something even more powerful: **Context Engineering**. This approach emerged around mid-2025 and it truly opened new doors. It's not just about one prompt but it's about *designing entire systems*. These systems automatically *assemble*, *format* and *feed all the relevant information and tools* into the AI model at exactly the right moment. The context becomes *dynamic*, built on the fly. This means the AI has precisely what it needs, whether it's pulling information from documents, databases, or using external tools through *API integrations*. It feels like giving the AI a complete, constantly updated understanding of the entire situation. I have found *Kilo Code* in *VSCode* to be a *fantastic context engineering tool* for this. I'm currently using it while building a complex, AI-enabled *Chrome extension* of my own. I just love how I can define coding standards, security standards, visual design guides and overall brief of what the new software is about to help AI stay withing these guardrails.
 
-### The Resolution
+### My AI Future
 
 This journey, from simple prompting to sophisticated context engineering, has been incredibly rewarding. Context engineering has enabled me to do so much more than I ever thought possible. I am now *far more effective* in building software. The AI behaves more reliably and it helps me create complex projects *seamlessly*, with fewer "hallucinations" or mistakes.
 
