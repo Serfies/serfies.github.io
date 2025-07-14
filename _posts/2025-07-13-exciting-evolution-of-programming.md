@@ -78,3 +78,11 @@ Anyone planning to start a career in software development must be smart and try 
 **In closing**, I want to encourage you that by focusing on communication, context engineering and systems thinking, we can shape a future where technology empowers us to solve bigger and more meaningful problems.
 
 Please follow my blog for future posts on this topic.
+
+## References
+
+AI Engineer. (2025, July 12). The New Code — Sean Grove, OpenAI [Video]. YouTube. https://www.youtube.com/watch?v=8rABwKRsec4
+
+Berman, M. (2025, July 3). Aaron Levie: White Collar Jobs, Future of SaaS, Agents, Concentration of Power [Video]. YouTube. https://www.youtube.com/watch?v=CLC1j5i44ZA
+
+Berman, M. (2025, July 2). Factory CEO on the Future of Software, Humans vs Agents, SaaS, and more! [Video]. YouTube. https://www.youtube.com/watch?v=sI3D1UY-cV0
