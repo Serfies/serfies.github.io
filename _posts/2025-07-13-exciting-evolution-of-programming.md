@@ -81,8 +81,8 @@ Please follow my blog for future posts on this topic.
 
 ## References
 
-AI Engineer. (2025, July 12). The New Code — Sean Grove, OpenAI [Video]. YouTube. https://www.youtube.com/watch?v=8rABwKRsec4
+AI Engineer. (12 July 2025). The New Code — Sean Grove, OpenAI [Video]. YouTube. https://www.youtube.com/watch?v=8rABwKRsec4
 
-Berman, M. (2025, July 3). Aaron Levie: White Collar Jobs, Future of SaaS, Agents, Concentration of Power [Video]. YouTube. https://www.youtube.com/watch?v=CLC1j5i44ZA
+Berman, M. (3 July 2025). Aaron Levie: White Collar Jobs, Future of SaaS, Agents, Concentration of Power [Video]. YouTube. https://www.youtube.com/watch?v=CLC1j5i44ZA
 
-Berman, M. (2025, July 2). Factory CEO on the Future of Software, Humans vs Agents, SaaS, and more! [Video]. YouTube. https://www.youtube.com/watch?v=sI3D1UY-cV0
+Berman, M. (2 July 2025). Factory CEO on the Future of Software, Humans vs Agents, SaaS, and more! [Video]. YouTube. https://www.youtube.com/watch?v=sI3D1UY-cV0
