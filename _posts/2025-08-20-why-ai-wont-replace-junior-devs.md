@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Future of Software Careers in New Zealand, AI, Youth and Opportunity
-subtitle: Why AI won’t replace junior developers — but make them more valuable than ever.
+subtitle: Why AI won’t replace junior developers - but make them more valuable than ever.
 gh-repo: serfies/serfies.github.io
 gh-badge: [star, fork, follow]
 tags: [Programming, AI, Unemployment]
